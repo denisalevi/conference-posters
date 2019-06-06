@@ -1,0 +1,4 @@
+[submodule "ccn-2019-barcelona/source/abstract"]
+	path = ccn-2019-barcelona/source/abstract
+	url = git@github.com:denisalevi/CCN-2019-poster-abstract.git
+	branch = master
