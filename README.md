@@ -4,7 +4,7 @@
 - Here is our [poster](CCN-2019-Barcelona/poster.pdf) and its [abstract](CCN-2019-Barcelona/abstract.pdf).
 
 
-### Adding a new conference poster
+# Adding a new conference poster
 1. Create a copy of the [template](template) folder, naming it `<CONFERENCE>-<year>-<City>`.
 2. Create new repositories for abstract and poster on GitHub.
 3. Add those as submodules in the source folder of the conference folder,
